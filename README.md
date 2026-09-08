@@ -18,7 +18,7 @@ Software Engineer | Computer Vision & Machine Learning | MSc Computer Science & 
 
 - 🎓 MSc in Computer Science & Engineering, University of Ioannina, Greece
 - 🔬 My diploma thesis, **StarCell**, was published and peer-reviewed at **IC-DSP 2025 (IEEE Xplore)**
-- 🪖 Finished mandatory military service
+- 🪖 Finished greek mandatory military service
 - 💻 Interested in software engineering, computer vision, and machine learning
 - 🌍 Looking for **remote / hybrid roles** across Greece and the EU
 
